@@ -1,6 +1,6 @@
 # Learn Ethical Hacking with Python 3 from Scratch
 
-Offensive Security Python scripts based on my course "Learn Ethical Hacking with Python 3 from Scratch" on Phoenyx Academy
+Offensive Security Python scripts based on my course ["Learn Ethical Hacking with Python 3 from Scratch"](https://phoenyxacademy.com/courses/ethical-hacking-with-python-3/ "Learn Ethical Hacking with Python 3 from Scratch") on Phoenyx Academy
 
 
 ## Course Website
