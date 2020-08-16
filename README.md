@@ -45,4 +45,4 @@ YouTube: [Visit Channel](https://www.youtube.com/channel/UCYRIwpAwEbY9hFw7iet05k
 
 ## Disclaimer
 
-The use of this tool is your responsability. I hereby disclaim any responsibility for actions taken with this tool.
+The use of these tools is your responsability. I hereby disclaim any responsibility for actions taken with these tools.
