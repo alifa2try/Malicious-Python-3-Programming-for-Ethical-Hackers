@@ -19,7 +19,7 @@ LinkedIn: [Visit Profile](https://www.linkedin.com/company/phoenyx-academy/?view
 
 YouTube: [Visit Channel](https://www.youtube.com/c/PhoenyxAcademy?sub_confirmation=1 "YouTube")
 
-![Phoenyx Logo](https://phoenyxacademy.com/wp-content/uploads/2020/06/All-logos.png "Phoenyx Academy Logo")
+![Phoenyx Logo](https://phoenyxacademy.com/wp-content/uploads/2020/06/All-logos-150x150.png "Phoenyx Academy Logo")
 
 
 
