@@ -9,6 +9,17 @@ import scapy.all as scapy # for packet crafting
 import prettytable # for tabular output
 from colorama import Fore # color text formatting
 
+'''
+These lines serve to suppress a warning created by Scapy when IPv6 routing isn't configured,
+which causes the following output:
+WARNING: No route found for IPv6 destination :: (no default route?)
+This isn't essential for the functionality of the script, but it does make the output tidier when
+you run it.
+
+'''
+import logging
+logging.getLogger("scapy.runtime").setLevel(logging.ERROR)
+
 
 
 # define colorama colors
