@@ -1,6 +1,6 @@
-# Learn Ethical Hacking with Python 3 from Scratch
+# Malicious Python 3 Programming for Ethical Hackers
 
-Offensive Security Python scripts based on my course ["Learn Ethical Hacking with Python 3 from Scratch"](https://phoenyxacademy.com/courses/ethical-hacking-with-python-3/ "Learn Ethical Hacking with Python 3 from Scratch") on Phoenyx Academy
+Offensive Security Python scripts based on my course ["Malicious Python 3 Programming for Ethical Hackers"](https://phoenyxacademy.com/courses/malicious-python3-programming/ "Malicious Python 3 Programming for Ethical Hackershttps://phoenyxacademy.com/courses/malicious-python3-programming/") on Phoenyx Academy
 
 
 ## Course Website
